@@ -1,6 +1,6 @@
 ## EXP NO 26: C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
-## NAME: RAJASHRI I
-## REG NO: 212224040261
+## NAME: Yuvashree S
+## REG NO: 212223040251
 Aim:
 To write a C program to display stack elements using linked list.
 
